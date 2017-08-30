@@ -1,0 +1,23 @@
+Lab 3-2.s
+MARS:
+Assemble: assembling C:\Users\Hernandez-TAMU\Desktop\ecen350lab\lab3\lab3-2.s
+
+Assemble: operation completed successfully.
+
+Run I/O:
+19
+-- program is finished running --
+
+----------------------------------------------------------------------------------
+
+Lab 3-3.s
+MARS:
+Assemble: assembling C:\Users\Hernandez-TAMU\Desktop\ecen350lab\lab3\lab3-3.s
+
+Assemble: operation completed successfully.
+
+Run I/O:
+
+-- program is finished running --
+
+

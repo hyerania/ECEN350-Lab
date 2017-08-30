@@ -1,0 +1,66 @@
+Lab2a.s
+Mars Messages
+Assemble: assembling C:\Users\Hernandez-TAMU\Desktop\ecen350lab\lab2\lab2a.asm
+Assemble: operation completed successfully.
+Go: running lab2a.asm
+Go: execution completed successfully.
+
+Run I/O
+A 17 byte message
+Another message of 27 bytes
+
+-- program is finished running --
+
+---------------------------------------------------------------------------------
+Lab2b.s
+Mars Messages
+Assemble: assembling C:\Users\Hernandez-TAMU\Desktop\ecen350lab\lab2\lab2b.asm
+Assemble: operation completed successfully.
+Go: running lab2b.asm
+Go: execution completed successfully.
+
+Run I/O
+**** user input : whatwhat
+whatwHat
+
+-- program is finished running --
+
+--------------------------------------------------------------------------------
+Lab 2c.s
+Mars Messages
+Assemble: assembling C:\Users\Hernandez-TAMU\Desktop\ecen350lab\lab2\lab2c.s
+Assemble: operation completed successfully.
+Go: running lab2c.s
+Go: execution completed successfully.
+
+
+Run I/O
+**** user input : Hello
+4
+-- program is finished running --
+
+---------------------------------------------------------------------------------
+Lab 2d.s
+Mars Messages
+Assemble: assembling C:\Users\Hernandez-TAMU\Desktop\ecen350lab\lab2\lab2d.asm
+Assemble: operation completed successfully.
+Go: running lab2d.asm
+Go: execution completed successfully.
+
+Run I/O
+**** user input : 10
+Your number in Hex is: 0a
+-- program is finished running --
+
+-------------------------------------------------------------------------------
+Lab 2f.s
+Mars Messages
+Assemble: assembling C:\Users\Hernandez-TAMU\Desktop\ecen350lab\lab2\lab2f.s
+Assemble: operation completed successfully.
+Go: running lab2f.s
+Go: execution completed successfully.
+
+Run I/O
+**** user input : 8
+The letters are: abcdefgh
+-- program is finished running --

@@ -1,0 +1,58 @@
+Run I/O:
+
+-- program is finished running --
+
+
+Mars Messages:
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+
+Go: execution completed successfully.
+
+------------------------------------------------------------------------------
+Run I/O:
+
+-- program is finished running --
+
+
+Mars Messages:
+
+Assemble: operation completed successfully.
+
+Go: running Lab1b.s
+
+
+Go: execution completed successfully.
+
+------------------------------------------------------------------------------
+Run I/O:
+
+-- program is finished running --
+
+
+Mars Messages:
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+
+Go: execution completed successfully.
+
+---------------------------------------------------------------------------------
+Run I/O:
+
+-- program is finished running --
+
+
+Mars Messages:
+
+Assemble: operation completed successfully.
+
+Go: running Lab1d.s
+
+
+Go: execution completed successfully.
